@@ -33,6 +33,7 @@ This is a demo music application which is a slight reflection of Spotify applica
 - Multiple Managers, Views, View Models, Presenter and Controllers are used to built this app.
 - This app consists app icon, splash screen, custom color set, custom image set, custom label color set.
 - SF Symbols provided by developer.apple.com is used to give a nicer look UI.
+- Light Mode & Dark Mode compatible application.
 - App is functional, free and ready to use.
 - Project is still work in progress.
 
@@ -44,3 +45,21 @@ This is a demo music application which is a slight reflection of Spotify applica
 - This app is built using spotify API's.
 - All rights are reserved with spotify.
 - Do NOT use this app illegally.
+
+## Application ScreenShots
+
+[![Home-Screen.png](https://i.postimg.cc/ZRLyw2y8/Home-Screen.png)](https://postimg.cc/TLpwwk01)
+
+[![Login-Screen.png](https://i.postimg.cc/9F0qBxX9/Login-Screen.png)](https://postimg.cc/Czy1hsqM)
+
+[![Browse-Screen1.png](https://i.postimg.cc/hG1jnxPg/Browse-Screen1.png)](https://postimg.cc/5Hj1qXCk)
+
+[![Browse-Screen2.png](https://i.postimg.cc/Fs01p257/Browse-Screen2.png)](https://postimg.cc/ykYVYpNH)
+
+[![Search-Screen1.png](https://i.postimg.cc/brkY625K/Search-Screen1.png)](https://postimg.cc/GT31t9dQ)
+
+[![Search-Result1.png](https://i.postimg.cc/CL0wh5Xx/Search-Result1.png)](https://postimg.cc/pyswkWPw)
+
+[![Search-Result2.png](https://i.postimg.cc/0NMTd1F4/Search-Result2.png)](https://postimg.cc/hJnZc6S8)
+
+[![Library-Screen.png](https://i.postimg.cc/mkwJ2L1P/Library-Screen.png)](https://postimg.cc/GT4qX1QR)
