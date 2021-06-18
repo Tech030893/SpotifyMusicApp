@@ -3,7 +3,7 @@
 This is a demo music application which is a slight reflection of Spotify application. This app is built using API provided by Spotify itself. App is fully created programmatically, there is no use of any storyboard.
 
 ## Programming language used
-- Swift
+- Swift 5
 
 ## Deployment Info
 - iOS 14.5
